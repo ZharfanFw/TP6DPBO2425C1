@@ -67,6 +67,4 @@ Game ini dibuat untuk melatih logika pergerakan objek (player, pipa, gravitasi),
 
 ## 📊 Dokumentasi Program
 
-<video width="600" controls>
-  <source src="./dokumentasi//dokumentasi.mp4" type="video/mp4">
-</video>
+![Demo Gameplay](./dokumentasi/dokumentasi.mp4)
