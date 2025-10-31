@@ -61,7 +61,6 @@ Game ini dibuat untuk melatih logika pergerakan objek (player, pipa, gravitasi),
 | ---------------------- | ------------------------------------- |
 | **Spasi**              | Membuat burung melompat ke atas       |
 | **R**                  | Restart permainan (setelah Game Over) |
-| **Esc / Close Window** | Keluar dari permainan                 |
 
 ---
 
